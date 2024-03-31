@@ -18,5 +18,5 @@
 
 # Modify hostname
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
-git clone https://github.com/sirpdboy/luci-app-advanced package/luci-app-advanced
-git clone https://github.com/sirpdboy/luci-app-autotimeset package/luci-app-autotimeset
+#git clone https://github.com/sirpdboy/luci-app-advanced package/luci-app-advanced
+#git clone https://github.com/sirpdboy/luci-app-autotimeset package/luci-app-autotimeset
