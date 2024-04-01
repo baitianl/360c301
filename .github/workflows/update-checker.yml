@@ -14,7 +14,7 @@ name: Update Checker
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_BRANCH: 20230609
+  REPO_BRANCH: 20221001
 
 on:
   workflow_dispatch:
