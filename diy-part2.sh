@@ -20,3 +20,4 @@
 #sed -i 's/OpenWrt/P3TERX-Router/g' package/base-files/files/bin/config_generate
 git clone https://github.com/sirpdboy/luci-app-advanced package/luci-app-advanced
 svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-unblockneteasemusic-go package/luci-app-unblockneteasemusic-go
+https://github.com/quanjindeng/Actions_OpenWrt-Amlogic
